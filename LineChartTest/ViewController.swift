@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         
         drawSeries(CurrentVC: LineChart, ySeries: [7.0, 2.0, 4.0, 3.0, 4.0, 6.0, 4.0, 3.0, 1.0, 12.0, 10.0])
         
-        }
+    }
     
 }
 
